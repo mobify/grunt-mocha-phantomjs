@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "mocha-phantomjs": "mobify/mocha-phantomjs",
-    "phantomjs": "1.9.7-15",
+    "phantomjs": "1.9.8",
     "lodash": "2.4.1",
     "async": "~0.2"
   },
