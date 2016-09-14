@@ -28,7 +28,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "mocha-phantomjs": "mobify/mocha-phantomjs#upgrade-to-1.9.8",
+    "mocha-phantomjs": "mobify/mocha-phantomjs",
     "phantomjs": "1.9.20",
     "lodash": "2.4.1",
     "async": "~0.2"
